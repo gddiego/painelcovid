@@ -30,7 +30,7 @@ export default class ListCovid extends React.Component {
                 <Header className="header">
 
                     <Menu theme="dark" mode="horizontal" defaultSelectedKeys={['2']}>
-                        <Menu.Item key="3">Painel Covid-19</Menu.Item>
+                        <Menu.Item key="3">Painel Covid-19 Demo</Menu.Item>
                     </Menu>
                 </Header>
                 <Layout>

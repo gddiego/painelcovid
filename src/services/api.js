@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const api = axios.create({
-    baseURL: 'https://api.thevirustracker.com/free-api?countryTotal=BR'
+    baseURL: process.env.REACT_APP_API_URL
 })
 
 export default api;

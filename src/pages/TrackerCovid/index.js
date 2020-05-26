@@ -75,7 +75,7 @@ export default class ListCovid extends React.Component {
 
                                         <div className="site-page-header-ghost-wrapper">
                                             <Timeline mode="center">
-                                                <Timeline.Item>Criado por Diego Mendeds</Timeline.Item>
+                                                <Timeline.Item>Criado por Diego Mendes</Timeline.Item>
                                                 <Timeline.Item>Desenvolvedor PHP, Reactjs, React Native, Nodejs</Timeline.Item>
                                             </Timeline>
                                             <PageHeader
